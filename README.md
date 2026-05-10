@@ -2,7 +2,7 @@
 
 A Python script to copy all messages from one Telegram channel to another using the [Telethon](https://docs.telethon.dev/) library. Messages are sent as original content (no "Forwarded from" label).
 
----
+----
 
 ## ✨ Features
 
